@@ -3,12 +3,18 @@
 
 HW2 Written and tested by Bradley Breen.
 
-NEW FILES:
+
+**NEW FILES:
+**
 
 Question.java - question object, implemented fully
+
 Answer.java - answer object. implemented full functionality
+
 QuestionManager.java - manages questions and answers and sends commands to the database for storage.
+
 databaseHelper.java - updated methods to allow for question storage.
+
 
 
 
