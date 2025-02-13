@@ -1,5 +1,21 @@
-<<<<<<< HEAD
 # CSE360-HW2
+
+
+HW2 Written and tested by Bradley Breen.
+
+NEW FILES:
+
+Question.java - question object, implemented fully
+Answer.java - answer object. implemented full functionality
+QuestionManager.java - manages questions and answers and sends commands to the database for storage.
+databaseHelper.java - updated methods to allow for question storage.
+
+
+
+
+
+
+
 =======
 README File for Team Project Phase 1
 Overview
@@ -35,3 +51,5 @@ Description: Contains video recordings demonstrating the functional requirements
    Username: steve1
    Password: Abcd1234$
 >>>>>>> 6279184 (Initial commit of CSE360-Group-43-main)
+
+
